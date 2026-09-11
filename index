@@ -1,0 +1,280 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A practical, evidence-informed field guide for inclusive, engaging, and well-organized online teaching at community colleges.">
+    <title>Online Teaching, Designed for Belonging</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to main content</a>
+
+    <header class="site-header">
+      <div class="shell header-inner">
+        <a class="wordmark" href="#top" aria-label="Teaching and Learning home">
+          <span class="wordmark-mark" aria-hidden="true">M</span>
+          <span>Teaching &amp; Learning</span>
+        </a>
+        <nav aria-label="Page sections">
+          <ul class="nav-list">
+            <li><a href="#practices">Practices</a></li>
+            <li><a href="#weekly">Weekly rhythm</a></li>
+            <li><a href="#self-check">Self-check</a></li>
+            <li><a href="#sources">Sources</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main-content" tabindex="-1">
+      <section class="hero" id="top" aria-labelledby="page-title">
+        <div class="shell hero-grid">
+          <div class="hero-copy">
+            <p class="eyebrow">A faculty field guide</p>
+            <h1 id="page-title">Online teaching, designed for belonging.</h1>
+            <p class="hero-lede">A strong online course is not a digital filing cabinet. It is a clear, human learning environment where students know where to go, what matters, and how to keep moving.</p>
+            <div class="button-row">
+              <a class="button button-primary" href="#practices">Explore the practices</a>
+              <a class="button button-secondary" href="#weekly">Plan next week</a>
+            </div>
+          </div>
+
+          <aside class="first-moves" aria-labelledby="first-moves-title">
+            <p class="kicker">Start small</p>
+            <h2 id="first-moves-title">Three moves with an outsized return</h2>
+            <ol>
+              <li><strong>Orient.</strong> Show students exactly how this week works.</li>
+              <li><strong>Connect.</strong> Make your teaching presence visible and useful.</li>
+              <li><strong>Respond.</strong> Give feedback students can act on next.</li>
+            </ol>
+          </aside>
+        </div>
+      </section>
+
+      <section class="quick-nav" aria-labelledby="quick-nav-title">
+        <div class="shell">
+          <h2 id="quick-nav-title">What do you need today?</h2>
+          <div class="quick-links">
+            <a href="#presence"><span>01</span> Strengthen presence</a>
+            <a href="#organization"><span>02</span> Simplify navigation</a>
+            <a href="#alignment"><span>03</span> Align learning</a>
+            <a href="#access"><span>04</span> Remove barriers</a>
+            <a href="#assessment"><span>05</span> Rethink assessment</a>
+            <a href="#feedback"><span>06</span> Improve feedback</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="practices section" id="practices" aria-labelledby="practices-title">
+        <div class="shell">
+          <div class="section-heading">
+            <p class="eyebrow">Six high-impact practices</p>
+            <h2 id="practices-title">Design the path. Then walk it with students.</h2>
+            <p>These practices work together: clarity lowers avoidable friction, interaction makes learning social, and feedback turns effort into progress.</p>
+          </div>
+
+          <div class="practice-list">
+            <article class="practice" id="presence">
+              <div class="practice-number" aria-hidden="true">01</div>
+              <div>
+                <p class="kicker">Presence + interaction</p>
+                <h3>Be predictably present—not perpetually online.</h3>
+                <p>Welcome students in your own voice. State when and how you will communicate, then create a dependable pattern of instructor-initiated teaching, feedback, content-focused discussion, and outreach. Federal definitions emphasize substantive interaction on a predictable schedule and proactive response when students need support.</p>
+                <p class="try-this"><strong>Try this week:</strong> Post a brief Monday preview, add one content-focused touchpoint, and reach out to students whose activity suggests they may be stuck.</p>
+                <p class="practice-links"><a href="https://www.ecfr.gov/current/title-34/subtitle-B/chapter-VI/part-600/subpart-A/section-600.2">Read 34 CFR § 600.2 on distance education and interaction</a></p>
+              </div>
+            </article>
+
+            <article class="practice" id="organization">
+              <div class="practice-number" aria-hidden="true">02</div>
+              <div>
+                <p class="kicker">Organization + orientation</p>
+                <h3>Make the course feel learnable at first glance.</h3>
+                <p>Use one repeated module pattern, plain-language labels, a visible starting point, and a short overview that connects the week’s purpose, work, and due dates. Put help where the need occurs instead of making students hunt for it.</p>
+                <p class="try-this"><strong>Try this week:</strong> Ask a colleague to find the first activity, the deadline, and the help route without coaching. Fix the first point of hesitation.</p>
+                <p class="practice-links"><a href="https://www.cvc.edu/professional-development/online-course-design-standards/">Explore the California Virtual Campus course design standards</a></p>
+              </div>
+            </article>
+
+            <article class="practice" id="alignment">
+              <div class="practice-number" aria-hidden="true">03</div>
+              <div>
+                <p class="kicker">Alignment + active learning</p>
+                <h3>Give every activity a job.</h3>
+                <p>Start with a measurable outcome. Choose a learning activity that lets students practice the intended thinking, then use an assessment that asks for that same kind of performance. Build in opportunities to explain, apply, compare, create, solve, or collaborate—not only consume content.</p>
+                <p class="try-this"><strong>Try this week:</strong> Finish the sentence: “Students do this activity so they can…” If the answer does not point to an outcome or assessment, revise or remove it.</p>
+                <p class="practice-links"><a href="https://www.cvc.edu/professional-development/online-course-design-standards/">Review CVC guidance on content, interaction, and assessment</a></p>
+              </div>
+            </article>
+
+            <article class="practice" id="access">
+              <div class="practice-number" aria-hidden="true">04</div>
+              <div>
+                <p class="kicker">Inclusion + access</p>
+                <h3>Design for learner variability from the start.</h3>
+                <p>Offer clear goals, more than one useful way to engage with ideas, accessible options for perceiving information, and appropriate choices for demonstrating learning. Use semantic headings, meaningful links, text alternatives, captions, sufficient contrast, and documents that work with assistive technology.</p>
+                <p class="try-this"><strong>Try this week:</strong> Navigate one module using only the keyboard, zoom to 200%, and check one document, image, and video for accessible alternatives.</p>
+                <p class="practice-links"><a href="https://udlguidelines.cast.org/">Explore CAST’s UDL Guidelines 3.0</a> <span aria-hidden="true">·</span> <a href="https://www.w3.org/TR/WCAG21/">Use WCAG 2.1 as the accessibility baseline</a></p>
+              </div>
+            </article>
+
+            <article class="practice" id="assessment">
+              <div class="practice-number" aria-hidden="true">05</div>
+              <div>
+                <p class="kicker">Transparent + authentic assessment</p>
+                <h3>Assess thinking students can explain and use.</h3>
+                <p>Make the purpose, task, criteria, and process explicit. Favor contextual work, staged drafts, reflection, application, and brief explanations of choices where they fit the outcome. This gives students a clearer target and produces richer evidence of learning than surveillance-heavy design alone.</p>
+                <p class="try-this"><strong>Try this week:</strong> Add a “Why this matters” note, an annotated example, and a small checkpoint before the final submission.</p>
+                <p class="practice-links"><a href="https://www.cvc.edu/professional-development/online-course-design-standards/">See CVC assessment and guidance standards</a></p>
+              </div>
+            </article>
+
+            <article class="practice" id="feedback">
+              <div class="practice-number" aria-hidden="true">06</div>
+              <div>
+                <p class="kicker">Feedback + learner support</p>
+                <h3>Close the loop while there is time to improve.</h3>
+                <p>Tell students when feedback will arrive. Make it specific, respectful, and connected to criteria; identify a strength, the most useful next step, and a chance to apply it. Pair academic feedback with timely routes to tutoring, technology, accessibility, library, counseling, and basic-needs support.</p>
+                <p class="try-this"><strong>Try this week:</strong> Turn one recurring comment into a short whole-class teaching note, then contact students who may benefit from support before the next deadline.</p>
+                <p class="practice-links"><a href="https://www.cvc.edu/professional-development/online-course-design-standards/">Review CVC learner-support and feedback guidance</a></p>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="weekly section section-tint" id="weekly" aria-labelledby="weekly-title">
+        <div class="shell weekly-grid">
+          <div class="section-heading sticky-heading">
+            <p class="eyebrow">A sustainable weekly rhythm</p>
+            <h2 id="weekly-title">Small signals, sent consistently.</h2>
+            <p>Presence does not require being available every hour. A steady rhythm helps students plan—and helps faculty protect their time.</p>
+          </div>
+          <div class="rhythm" aria-label="Suggested weekly teaching rhythm">
+            <article>
+              <p class="day">Open</p>
+              <h3>Orient the week</h3>
+              <ul>
+                <li>Connect this week to the course story.</li>
+                <li>Name the outcome, workload, and key deadline.</li>
+                <li>Flag one common challenge and where to get help.</li>
+              </ul>
+            </article>
+            <article>
+              <p class="day">Engage</p>
+              <h3>Teach into the work</h3>
+              <ul>
+                <li>Offer a worked example, question, or mini-lesson.</li>
+                <li>Facilitate meaningful peer exchange where it serves learning.</li>
+                <li>Monitor participation and reach out proactively.</li>
+              </ul>
+            </article>
+            <article>
+              <p class="day">Respond</p>
+              <h3>Turn evidence into direction</h3>
+              <ul>
+                <li>Give feedback while students can still use it.</li>
+                <li>Clarify a pattern you noticed across the class.</li>
+                <li>Preview the next connection and invite questions.</li>
+              </ul>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="self-check section" id="self-check" aria-labelledby="self-check-title">
+        <div class="shell check-grid">
+          <div class="section-heading">
+            <p class="eyebrow">Course-design self-check</p>
+            <h2 id="self-check-title">Can students answer “yes”?</h2>
+            <p>Use this as a design conversation, not a score. Choose one “not yet” item with the greatest likely effect on student learning and improve that first.</p>
+          </div>
+
+          <form class="checklist" aria-label="Online course design self-check">
+            <fieldset>
+              <legend>Clarity and belonging</legend>
+              <label><input type="checkbox"> <span>I know how to begin and where to go next.</span></label>
+              <label><input type="checkbox"> <span>I understand why the work matters and how it connects.</span></label>
+              <label><input type="checkbox"> <span>I can find my instructor’s communication plan and response times.</span></label>
+            </fieldset>
+            <fieldset>
+              <legend>Learning and interaction</legend>
+              <label><input type="checkbox"> <span>I practice the same kind of thinking the outcome and assessment require.</span></label>
+              <label><input type="checkbox"> <span>I encounter instructor-initiated teaching and interaction on a predictable schedule.</span></label>
+              <label><input type="checkbox"> <span>I have meaningful ways to learn with or from other students when collaboration serves the goal.</span></label>
+            </fieldset>
+            <fieldset>
+              <legend>Access and progress</legend>
+              <label><input type="checkbox"> <span>I can use course materials with my device, browser, keyboard, and assistive technology.</span></label>
+              <label><input type="checkbox"> <span>I know what quality looks like before I submit.</span></label>
+              <label><input type="checkbox"> <span>I receive feedback in time to improve and know where to find support.</span></label>
+            </fieldset>
+          </form>
+        </div>
+      </section>
+
+      <section class="note section" aria-labelledby="improvement-title">
+        <div class="shell note-inner">
+          <div>
+            <p class="eyebrow">Continuous improvement</p>
+            <h2 id="improvement-title">Treat the course as a living design.</h2>
+          </div>
+          <p>At a natural checkpoint, review where students paused, asked for clarification, missed a connection, or disengaged. Combine that evidence with a short student pulse check, then revise one pattern—not every page. Document the change and look again next term.</p>
+        </div>
+      </section>
+
+      <section class="sources section" id="sources" aria-labelledby="sources-title">
+        <div class="shell sources-grid">
+          <div class="section-heading">
+            <p class="eyebrow">Read the foundations</p>
+            <h2 id="sources-title">Primary guidance behind this field guide</h2>
+            <p>This page translates authoritative standards and frameworks into practical prompts. It is educational guidance, not legal advice; faculty should also follow current institutional policies and consult appropriate campus specialists.</p>
+          </div>
+          <ul class="source-list">
+            <li>
+              <a href="https://www.cvc.edu/professional-development/online-course-design-standards/">California Virtual Campus: Online Course Design Standards</a>
+              <span>Course design, interaction, assessment, learner support, and accessibility.</span>
+            </li>
+            <li>
+              <a href="https://udlguidelines.cast.org/">CAST: Universal Design for Learning Guidelines 3.0</a>
+              <span>A framework for reducing barriers and supporting learner agency.</span>
+            </li>
+            <li>
+              <a href="https://www.ecfr.gov/current/title-34/subtitle-B/chapter-VI/part-600/subpart-A/section-600.2">Electronic Code of Federal Regulations: 34 CFR § 600.2</a>
+              <span>Current federal definitions for distance education and regular and substantive interaction.</span>
+            </li>
+            <li>
+              <a href="https://www.w3.org/TR/WCAG21/">W3C: Web Content Accessibility Guidelines 2.1</a>
+              <span>The Level A and AA technical accessibility baseline used here.</span>
+            </li>
+            <li>
+              <a href="https://www.ada.gov/resources/2024-03-08-web-rule/">U.S. Department of Justice: Title II web and mobile accessibility rule</a>
+              <span>Official information for state and local government web accessibility.</span>
+            </li>
+            <li>
+              <a href="https://www.section508.gov/develop/applicability-conformance/">Section508.gov: Applicability and conformance requirements</a>
+              <span>How the Revised Section 508 Standards incorporate WCAG requirements.</span>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="closing" aria-labelledby="closing-title">
+        <div class="shell closing-inner">
+          <p class="eyebrow">One thoughtful change is enough to begin.</p>
+          <h2 id="closing-title">Choose the friction students feel most. Design that moment with care.</h2>
+          <a class="button button-primary" href="#self-check">Use the course self-check</a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="shell footer-inner">
+        <p><strong>Teaching &amp; Learning</strong><br>A practical resource for MJC and community-college faculty.</p>
+        <p><a href="#top">Back to top</a></p>
+      </div>
+    </footer>
+  </body>
+</html>
+
